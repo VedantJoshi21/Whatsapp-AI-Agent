@@ -1,0 +1,1351 @@
+[2026-05-01T09:27:14.732Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:27:14.742Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:27:20.477Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:27:20.728Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:20.520Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:20.526Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:20.773Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:20.788Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:31.037Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:31.044Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:40.533Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:40.536Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:50.513Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:28:50.887Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:00.476Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:00.493Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:10.507Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:11.052Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:20.513Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:21.043Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:30.519Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:30.681Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:40.502Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:40.512Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:50.571Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:29:50.575Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:00.737Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:01.092Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:10.561Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:10.571Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:20.529Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:20.533Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:30.496Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:30.501Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:30.977Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:30.992Z] [ERROR] [Fetch Conversations Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:34.329Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:30:34.576Z] [ERROR] [Fetch Clients Error] {
+  "code": "PGRST125",
+  "details": null,
+  "hint": null,
+  "message": "Invalid path specified in request URL"
+}
+---
+[2026-05-01T09:36:18.049Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:20.663Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:25.593Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:37.266Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:42.012Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:47.224Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:51.819Z] [ERROR] [Fetch Conversation for Send Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:52.019Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:36:57.417Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:02.488Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:07.688Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:12.515Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:17.683Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:22.038Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:27.672Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:32.469Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:37.705Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:42.485Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:47.679Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:52.534Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:37:57.717Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:02.740Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:07.683Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:12.600Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:17.827Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:22.589Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:27.270Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:32.545Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:38.318Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:42.599Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:47.886Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:52.508Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:38:57.719Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:39:02.505Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:39:07.768Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:39:12.635Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:39:17.747Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:39:22.572Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:39:27.709Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:41:26.835Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:41:31.785Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:41:36.608Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:41:42.010Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:41:46.665Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:41:51.764Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:41:56.560Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:01.806Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:06.586Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:11.815Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:16.613Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:21.848Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:26.597Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:31.788Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:36.563Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:41.831Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:47.497Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:52.883Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:42:57.506Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:01.828Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:07.494Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:12.758Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:17.503Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:22.698Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:27.479Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:32.713Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:37.492Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:42.739Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:47.518Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:52.671Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:43:57.479Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:02.685Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:07.476Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:12.700Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:17.492Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:22.698Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:27.500Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:32.739Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:37.603Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:42.721Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:47.503Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:52.683Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:44:57.465Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:02.730Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:07.494Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:12.704Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:17.468Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:22.869Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:27.564Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:32.698Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:37.469Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:42.706Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:47.464Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:52.688Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:45:57.462Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:02.681Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:07.469Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:12.697Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:17.467Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:22.681Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:27.452Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:32.700Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:37.467Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:42.721Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:47.505Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:52.665Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:46:57.469Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:02.638Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:07.490Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:12.702Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:17.493Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:22.674Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:27.477Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:32.898Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:37.483Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:42.788Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:47.548Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:52.679Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:47:57.500Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:48:02.668Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T09:48:48.922Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:15:34.463Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:15:38.233Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:15:43.918Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:15:49.125Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:15:54.058Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:15:59.156Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:03.907Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:09.588Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:13.949Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:19.151Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:23.926Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:29.235Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:33.943Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:39.130Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:16:47.044Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:17:47.278Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:18:47.111Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:27.384Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:28.207Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:33.916Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:39.121Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:43.202Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:49.358Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:53.903Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:19:59.260Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:03.919Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:09.193Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:13.903Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:19.243Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:23.913Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:30.188Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:33.972Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:39.073Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:20:43.908Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---
+[2026-05-01T14:21:46.373Z] [ERROR] [Fetch Messages Error] {
+  "code": "22P02",
+  "details": null,
+  "hint": null,
+  "message": "invalid input syntax for type uuid: \"undefined\""
+}
+---

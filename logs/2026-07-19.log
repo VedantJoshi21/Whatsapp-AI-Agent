@@ -1,0 +1,287 @@
+[2026-07-19T15:22:56.740Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:23:06.337Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:23:16.384Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:23:26.313Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:23:36.363Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:23:46.355Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:23:56.444Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:24:06.546Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:24:16.827Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:24:26.335Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:24:36.344Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:24:46.370Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:24:56.345Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:25:06.403Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:25:16.409Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:25:26.674Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:25:36.321Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:25:46.368Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:25:56.545Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:26:06.353Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:26:16.362Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:26:26.334Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:26:36.437Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:26:46.443Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:26:56.727Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:27:06.601Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:27:16.653Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:27:26.412Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:27:36.865Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:27:46.350Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:27:56.560Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:28:06.366Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:28:16.355Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:28:26.343Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:28:36.383Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:28:46.439Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:28:56.398Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:29:06.377Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:29:17.200Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:29:26.986Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
+[2026-07-19T15:29:37.192Z] [ERROR] [Fetch Conversations Error] {
+  "message": "TypeError: fetch failed",
+  "details": "TypeError: fetch failed\n\nCaused by: Error: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co (ENOTFOUND)\nError: getaddrinfo ENOTFOUND fiayudjifpwezrhutrar.supabase.co\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:122:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+  "hint": "",
+  "code": ""
+}
+---
